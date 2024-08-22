@@ -80,7 +80,7 @@ nav ul li.active a {
 }
 
 @media only screen and (min-width: 421px) {
-    .card-body {
+    .card-body .card-title {
         padding: 1rem;
         border-radius: 7px;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
@@ -92,7 +92,7 @@ nav ul li.active a {
 }
 
 @media only screen and (min-width: 631px) {
-    .card-body {
+    .card-body .card-title {
         padding: 1rem;
         border-radius: 7px;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
