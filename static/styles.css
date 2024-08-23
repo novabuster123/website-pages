@@ -95,6 +95,7 @@ nav ul li.active a {
 
 .card-title {
     font-size: 2vw;
+    margin-top: -0.5em;
 }
 
 .headline {
