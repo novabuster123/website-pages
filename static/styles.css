@@ -68,7 +68,7 @@ nav ul li.active a {
 }
 
 @media only screen and (max-width: 420px) {
-    .card-body .card-title {
+    .card-body {
         padding: 1rem;
         border-radius: 7px;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
@@ -77,10 +77,13 @@ nav ul li.active a {
         font-size: 1vw;
         width: 60%;
     } 
+    .card-body .card-title {
+        font-size: 1.7vw;
+    }
 }
 
 @media only screen and (min-width: 421px) {
-    .card-body .card-title {
+    .card-body {
         padding: 1rem;
         border-radius: 7px;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
@@ -89,10 +92,13 @@ nav ul li.active a {
         font-size: 16px;
         width: 75%;
     }
+    .card-body .card-title {
+        font-size: 1.7vw;
+    }
 }
 
 @media only screen and (min-width: 631px) {
-    .card-body .card-title {
+    .card-body {
         padding: 1rem;
         border-radius: 7px;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
@@ -101,6 +107,9 @@ nav ul li.active a {
         font-size: 1vw;
         width: 90%;
     } 
+     .card-body .card-title {
+        font-size: 1.7vw;
+    }
 }
 
 .headline {
