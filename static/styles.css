@@ -93,6 +93,10 @@ nav ul li.active a {
     } 
 }
 
+.card-title {
+    font-size: 2vw;
+}
+
 .headline {
     text-align: center;
     padding-bottom: -1rem;
