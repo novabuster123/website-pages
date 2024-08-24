@@ -67,21 +67,10 @@ nav ul li.active a {
     justify-content: center;
 }
 
-@media only screen and (max-width: 630px) {
-    .card-body {
-        padding: 1rem;
-        border-radius: 7px;
-        box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
-        background-color: #24252f;
-        color: #f8c2c2;
-        font-size: 1vw;
-        width: 60%;
-    } 
-}
 
 
 
-@media only screen and (min-width: 631px) {
+
     .card-body {
         padding: 1rem;
         border-radius: 7px;
@@ -91,7 +80,7 @@ nav ul li.active a {
         font-size: 1vw;
         width: 90%;
     } 
-}
+
 
 .card-title {
     font-size: 2vw;
