@@ -99,6 +99,7 @@ nav ul li.active a {
 }
 
 .headline {
+    font-size: 2.5vw;
     text-align: center;
     padding-bottom: -1rem;
 }
