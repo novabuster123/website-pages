@@ -62,8 +62,6 @@ nav ul li.active a {
     margin-top: 2rem;
     padding: 1rem;
     row-gap: 2rem;
-    margin-left: auto;
-    margin-right: auto;
     justify-content: center;
 }
 
